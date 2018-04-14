@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Breath-Aurora
+Comment=Another Breath Theme
+X-KDE-PluginInfo-Author=Bolimage
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=Breath-Aurora
+X-KDE-PluginInfo-Version=0.2.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPL version 3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+Name[de_DE.utf8]=breath
+
+[Wallpaper]
+defaultWallpaperTheme=Breath
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
